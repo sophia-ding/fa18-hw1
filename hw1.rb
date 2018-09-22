@@ -46,5 +46,7 @@ def scrabble(word)
     y: 4,
     z: 10,
   }
+
+  # .to_sym
   # word => values
 end
